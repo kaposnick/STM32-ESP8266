@@ -1,4 +1,4 @@
-# Stm32_ESP8266
+# STM32-ESP8266
 Dummy project for a basic Stm32-ESP8266 with Android communication over TCP
 
 
